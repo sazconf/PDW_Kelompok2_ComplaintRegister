@@ -18,15 +18,18 @@ https://github.com/sazconf/PDW_Kelompok2_ComplaintRegister
 
 Group Members
 
-Name| Student ID
-Md Sazzad Hossain Sohag| 20240140253
-Nur Azizah Ulinnuha| 20240140252
-Ridho Faiq Ahmad| 20240140216
-Nimra Tariq| 20240140146
-Muhammad Ilyas| 20240140147
-Tasya Maulida Putri| 20240140239
-Basna Yanti Djakiman| 20240140238
-Chintya Nuryaman| 20240140195
+# Group Members
+
+| No. | Name | Student ID |
+|:---:|------|------------|
+| 1 | Md Sazzad Hossain Sohag | 20240140253 |
+| 2 | Nur Azizah Ulinnuha | 20240140252 |
+| 3 | Ridho Faiq Ahmad | 20240140216 |
+| 4 | Nimra Tariq | 20240140146 |
+| 5 | Muhammad Ilyas | 20240140147 |
+| 6 | Tasya Maulida Putri | 20240140239 |
+| 7 | Basna Yanti Djakiman | 20240140238 |
+| 8 | Chintya Nuryaman | 20240140195 |
 
 ---
 
